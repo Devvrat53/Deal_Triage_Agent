@@ -5,7 +5,7 @@ against a fund's investment mandate, and hands an Investments team member a reco
 decision — **Pursue / Pass / Needs-review** — that they confirm or override. The human
 always makes the final advance-to-committee call.
 
-Built on **Microsoft Agent Framework + Azure OpenAI + Azure AI Search + Azure Cosmos DB +
+Built on **Microsoft Agent Framework + Microsoft Foundry + Azure AI Search + Azure Cosmos DB +
 Streamlit**.
 
 ---
