@@ -18,7 +18,3 @@ __pycache__/
 
 # Local tooling / harness config
 .claude/
-
-# output
-outputs/Deal_Triage_Writeup.docx
-outputs/Demo_Script.md
