@@ -1,0 +1,20 @@
+# Secrets — NEVER commit
+.env
+.env.*
+!.env.example
+
+# Virtual environment (do NOT commit — ~900 MB)
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+
+# Local tooling / harness config
+.claude/
